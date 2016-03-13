@@ -1,2 +1,2 @@
-# hello-world
-A Hello World Repo for start.
+# My self
+This is a bit for my self
